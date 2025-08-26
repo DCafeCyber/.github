@@ -33,4 +33,9 @@ Mục tiêu hoạt động cơ bản:
 - Tổng tiền thu được theo ngày/tháng
 - Lọc theo từng máy, từng khách
 ## Đóng góp
+* [**Trần Nguyễn Tuấn Anh**](https://github.com/dopaemon)
+* [**Phan Văn Nhật Trường**](https://github.com/Girrint)
+* [**Lê Thị Mai Anh**](https://github.com/)
+* [**Nguyễn Minh Anh**](https://github.com/)
 ## Triển Khai
+* [**Manifest**](https://github.com/DCafeCyber/manifest)
