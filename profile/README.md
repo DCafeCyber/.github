@@ -30,7 +30,7 @@ Mục tiêu hoạt động cơ bản:
 - **Delete:** Xoá dịch vụ nếu không còn được sử dụng nữa
 ### Thống kê (đọc dữ liệu - Read only)
 - Tổng số giờ sử dụng hôm nay
-- Tổng tiền thu được theo ngày/tháng
+- Tổng tiền thu được theo ngày/tháng (dựa trên máy tính - sản phẩm)
 - Lọc theo từng máy, từng khách
 ### Tài khoản
 - Phân quyền tài khoản Chủ Quán (Admin Of Admin)
@@ -50,7 +50,11 @@ Mục tiêu hoạt động cơ bản:
 ### Order (Đặt hàng)
 - Nạp tiền vào tài khoản
 - Đặt món có trong menu
-
+### Bổ sung
+- Xuất danh sách máy tính (vào file excell)
+- Nhập danh sách máy tính (từ file excell)
+- Quản lý món ăn/nước uống
+- Tài khoản khách hàng tích lũy thời gian sử dụng
 ## Đóng góp
 * [**Trần Nguyễn Tuấn Anh**](https://github.com/dopaemon)
 * [**Phan Văn Nhật Trường**](https://github.com/Girrint)
