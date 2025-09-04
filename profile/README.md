@@ -32,6 +32,25 @@ Mục tiêu hoạt động cơ bản:
 - Tổng số giờ sử dụng hôm nay
 - Tổng tiền thu được theo ngày/tháng
 - Lọc theo từng máy, từng khách
+### Tài khoản
+- Phân quyền tài khoản Chủ Quán (Admin Of Admin)
+- Phân quyền tài khoản Admin
+- Phân quyền tài khoản Nhân viên trực ca
+### Thanh toán
+- Chấp nhận thanh toán bằng mã QR (Chuyển khoản)
+- Chấp nhận thanh toán tiền mặt
+### Logs
+- Chức năng in bill (Khách hàng)
+- Chức năng in order (Product order)
+### Tìm kiếm
+- Tìm máy tính theo tên
+- Lọc tài khoản theo chức vụ
+- Tìm tài khoản theo tên
+- Lọc tài khoản theo số tiền đã nạp (Hội viên)
+### Order (Đặt hàng)
+- Nạp tiền vào tài khoản
+- Đặt món có trong menu
+
 ## Đóng góp
 * [**Trần Nguyễn Tuấn Anh**](https://github.com/dopaemon)
 * [**Phan Văn Nhật Trường**](https://github.com/Girrint)
